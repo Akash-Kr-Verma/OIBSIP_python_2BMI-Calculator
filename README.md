@@ -61,7 +61,6 @@ BMI = 60 / (1.78 × 1.78)
 BMI ≈ 18.94
 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/bmi-tracker.git
 2. Install required libraries
 pip install matplotlib
 
